@@ -101,7 +101,7 @@ input::before {
 
 input {
     padding: 5px;
-    width: 200px;
+    width: 50%;
     position: absolute;
     left: 50%;
     top: 40%;
